@@ -1,4 +1,6 @@
-# Health-Tracker-App.body { max-width: 10rem; font-size: 1rem; }
+# Health-Tracker-App
+
+$type-size-8                  : 0.625em !default;  // ~10px
 
 3-in-1 health tracker applications to provide convenience as well as keep track of own health, calculating body mass index blood pressure and heart rate.
 
