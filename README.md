@@ -11,4 +11,5 @@ Health is important for everyone. It is important to monitor personal health sta
 ![health_status](https://user-images.githubusercontent.com/48885389/113247342-6d161400-92ed-11eb-8c3a-db98034d4892.png)
 
 Predict your health here!
+(Healthy=0, Unhealthy=1)
 
